@@ -1,2 +1,2 @@
-# Estudos-Python
-Programas básicos desenvolvidos no meu estudo de Python
+# Estudos Python
+Programas básicos desenvolvidos no meu estudo de Python.
